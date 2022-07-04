@@ -1,0 +1,8 @@
+C:\Users\Ahmet\OneDrive\Masaüstü\console-github\Karne_otomasyon\Karne_otomasyon\bin\Debug\Karne_otomasyon.exe.config
+C:\Users\Ahmet\OneDrive\Masaüstü\console-github\Karne_otomasyon\Karne_otomasyon\bin\Debug\Karne_otomasyon.exe
+C:\Users\Ahmet\OneDrive\Masaüstü\console-github\Karne_otomasyon\Karne_otomasyon\bin\Debug\Karne_otomasyon.pdb
+C:\Users\Ahmet\OneDrive\Masaüstü\console-github\Karne_otomasyon\Karne_otomasyon\obj\Debug\Karne_otomasyon.csproj.AssemblyReference.cache
+C:\Users\Ahmet\OneDrive\Masaüstü\console-github\Karne_otomasyon\Karne_otomasyon\obj\Debug\Karne_otomasyon.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmet\OneDrive\Masaüstü\console-github\Karne_otomasyon\Karne_otomasyon\obj\Debug\Karne_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\OneDrive\Masaüstü\console-github\Karne_otomasyon\Karne_otomasyon\obj\Debug\Karne_otomasyon.exe
+C:\Users\Ahmet\OneDrive\Masaüstü\console-github\Karne_otomasyon\Karne_otomasyon\obj\Debug\Karne_otomasyon.pdb
